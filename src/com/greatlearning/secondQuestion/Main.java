@@ -1,4 +1,4 @@
-package secondQuestion;
+package com.greatlearning.secondQuestion;
 
 public class Main
 {
